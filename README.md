@@ -2,8 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ravneet.s-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravneet-s/)](https://www.linkedin.com/in/ravneet-s/)
 [![Gmail Badge](https://img.shields.io/badge/-ravneet.s.saggu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravneet.s.saggu@gmail.com)](mailto:ravneet.s.saggu@gmail.com)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
-
 ## Hi 👋, 
 I'm Ravneet Singh, I'm a software engineer 👨‍💻 who is passionate about mobile & web technologies.
 
